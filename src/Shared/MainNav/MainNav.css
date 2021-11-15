@@ -1,0 +1,32 @@
+.nav-bar{
+    background-color: rgb(87, 10, 46);
+    margin-top: 20px;
+    color: white;
+    height: 50px;
+}
+.login-btn  a{
+    color: rgb(255, 255, 255);
+    padding: 3px;
+    text-align: center;
+}
+
+.nav-bar img{
+    margin-top: 10px;
+}
+
+ nav img{ 
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+
+.nav-link a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    margin-right: 16px;
+}  

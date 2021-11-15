@@ -1,0 +1,13 @@
+.font{
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-header-two{
+    display: flex;
+    justify-content: space-around;
+}

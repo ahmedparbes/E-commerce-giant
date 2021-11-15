@@ -1,0 +1,22 @@
+.features-div{
+    display: flex;
+    
+    border: 1px solid rgb(231, 225, 225);
+}
+.features-div img{
+    margin-top: 5px;
+    width: 70px;
+    margin-right: 6px;
+    height: 40px;
+}
+
+.info{
+    margin-left: 6px;
+}
+
+.all-features{
+    margin-top: 60px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
