@@ -1,0 +1,17 @@
+.all-footer-info{
+display: flex;
+justify-content: space-between;
+text-align: left;
+padding: 20px;
+}
+
+.bigger-footer p{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+div li{
+    list-style-type:none;
+    font-size: 14px;
+}

@@ -8,6 +8,7 @@
     width: 65px;
     margin-right: 6px;
     height: 30px;
+    margin-left: 6px;
 }
 
 .info{
@@ -16,6 +17,7 @@
 
 .all-features{
     margin-top: 60px;
+    padding: 15px;
     display: grid;
     grid-gap: 10px;
     grid-template-columns: repeat(4, 1fr);

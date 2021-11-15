@@ -9,10 +9,9 @@ const TopFeatures = () => {
                 <div className="features-div">
                     <img src="https://i.ibb.co/2syvgM1/policy1.png" alt="" />
                     <div className="info">
-                        <h6>FREE DELIVERY
-                        </h6>
+                        <h6>FREE DELIVERY</h6>
                         <small>
-                            For all oders over $120
+                            For all oders over
                         </small>
                     </div>
                 </div>
@@ -23,7 +22,7 @@ const TopFeatures = () => {
                         <h6>FREE DELIVERY
                         </h6>
                         <small>
-                            For all oders over $120
+                            For all oders over
                         </small>
                     </div>
                 </div>
@@ -34,7 +33,7 @@ const TopFeatures = () => {
                         <h6>FREE DELIVERY
                         </h6>
                         <small>
-                            For all oders over $120
+                            For all oders over
                         </small>
                     </div>
                 </div>
@@ -45,7 +44,7 @@ const TopFeatures = () => {
                         <h6>FREE DELIVERY
                         </h6>
                         <small>
-                            For all oders over $120
+                            For all oders over
                         </small>
                     </div>
                 </div>

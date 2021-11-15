@@ -7,8 +7,10 @@ import DisCountImage from '../../Service/DisCountImage/DisCountImage';
 import FeaturedProduct from '../../Service/FeaturedProduct/FeaturedProduct';
 import HotDeals from '../../Service/HotDeals/HotDeals';
 import TopCategory from '../../Service/TopCategory/TopCategory';
+import Footer from '../../Shared/Footer/Footer';
 import MainNav from '../../Shared/MainNav/MainNav';
 import Nav from '../../Shared/Nav/Nav';
+import NewsLetter from '../../Shared/NewsLetter/NewsLetter';
 
 const Home = () => {
     return (
@@ -24,6 +26,8 @@ const Home = () => {
             <FeaturedProduct></FeaturedProduct>
             <ComputerLaptop></ComputerLaptop>
             <DisCountImage></DisCountImage>
+            <NewsLetter></NewsLetter>
+            <Footer></Footer>
         </div>
 
     );
