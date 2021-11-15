@@ -1,0 +1,20 @@
+.top-category{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    margin-bottom: 60px;
+    grid-column-gap: 10px;
+}
+
+.single-top-category img{
+    width: 150px;
+}
+.single-top-category{
+    border: 1px solid rgb(230, 224, 224);
+}
+.single-top-category:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.single-top-category h6{
+    font-size: 15px;
+}

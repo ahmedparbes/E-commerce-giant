@@ -1,0 +1,29 @@
+.featured-products-all{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-bottom: 50px;
+}
+
+.featured-products-single img{
+width: 150px;
+}
+.featured-products-single {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.featured-products-single:hover {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.featured-text{
+    margin-top: 20px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.featured-text p{
+text-align: left;
+font-size: 18px;
+font-weight: 700;
+color: blue;
+}

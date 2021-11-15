@@ -13,7 +13,8 @@ const HotDeals = () => {
     return (
         <>
             <Container>
-                <h2 className='font' style={{ borderBottom: '2px solid blue', marginTop: '60px' }}>Hot Deals Products</h2>
+                <h2 className='font' style={{ marginTop: '60px' }}>Hot Deals Products</h2>
+                <hr />
                 <div className='font all-gadget'>
 
                     {

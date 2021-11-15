@@ -19,9 +19,9 @@ const Nav = () => {
                     <img src="https://i.ibb.co/s2VDVJZ/logo-white.png" alt="" />
                 </div>
                 <div>
-                    <input style={{ height: '40px' }} type="text" class="searchTerm" placeholder="What are you looking for?" />
+                    <input style={{ height: '40px' }} type="text" class="searchTerm" placeholder="Search Product" />
                     <button style={{ backgroundColor: 'purple', color: 'white', marginLeft: '7px' }} type="submit" class="searchButton">
-                        <i class="fa fa-search">Search</i>
+                        <i class="fa fa-search"> Search</i>
                     </button>
                 </div>
                 <div>
